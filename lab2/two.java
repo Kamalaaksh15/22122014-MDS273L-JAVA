@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class two{
+public class seconds {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         String[] names = new String[1024];
