@@ -79,10 +79,10 @@ public class lab3 {
 
             flag = true;
             System.out.println("########### MENU ##############");
-            System.out.println("## 1. Collet Student Details###");
-            System.out.println("## 2. Display Details #########");
-            System.out.println("## 3. Search a student ########");
-            System.out.println("## 4. Quit              #######");
+            System.out.println("1. Collet Student Details");
+            System.out.println(" 2. Display Details ");
+            System.out.println("1 3. Search a student ");
+            System.out.println("4. Quit              ");
             System.out.println("###############################");
             System.out.println("Enter your choice: ");
             int inp = Integer.parseInt(scc.nextLine());
@@ -95,8 +95,7 @@ public class lab3 {
                     break;
                 case 2:
                     dislaydata(arr, cnt);
-                    // System.out.println(arr[0][0]);
-                    // System.out.println(arr[1][0]);
+                  
                     break;
                 case 3:
                     search(arr, cnt);
