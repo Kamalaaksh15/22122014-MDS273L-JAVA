@@ -12,11 +12,12 @@ Whenever you are entering the details of a student, you need to enter the value 
 
 ***OUTPUT*** <br>
 PS C:\Users\kamal\Desktop\JAVA\22122014-MDS273L-JAVA\Lab-01\lab 3> java .\lab3.java
-########### MENU ###########
+########### MENU ##############
 1. Collet Student Details
  2. Display Details 
- 3. Quit 
-############################
+1 3. Search a student 
+4. Quit
+###############################
 Enter your choice: 
 1
 Enter the Name: Kamalaaksh
@@ -26,43 +27,36 @@ Enter the Reg No: 22122014
 Enter the Email Id: kammy@123
 
 Enter your Class:
-Mscds-a
+mscds-a
 
 Enter your Department:
-Data Science
-########### MENU ###########
+data science
+########### MENU ##############
 1. Collet Student Details
- 2. Display Details
- 3. Quit
-############################
+2. Display Details
+3. Search a student
+4. Quit
+###############################
 Enter your choice:
 1
-Enter the Name: Siddarth
+Enter the Name: gowtham
 
-Enter the Reg No: 22122047
+Enter the Reg No: 22122048
 
-Enter the Email Id: sidd@1234
+Enter the Email Id: gow@1234
 
 Enter your Class:
-Mscds-a
+mscds-a
 
 Enter your Department:
-Data science
-########### MENU ###########
+data science
+########### MENU ##############
 1. Collet Student Details
- 2. Display Details
- 3. Quit
-############################
+2. Display Details
+3. Search a student
+4. Quit
+###############################
 Enter your choice:
-2
-Name is : Kamalaaksh
-Reg NO is : 22122014
-Email is : kammy@123
-Class is : Mscds-a
-Dept is : Data Science
-
-Name is : Siddarth
-Reg NO is : 22122047
-Email is : sidd@1234
-Class is : Mscds-a
-Dept is : Data science
+3
+Enter the name to search
+kamalaaksh
