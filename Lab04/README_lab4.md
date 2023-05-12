@@ -69,7 +69,7 @@ Enter account balance: 80000
 Please select an option:
 
 
- 1.inialize customer
+1.inialize customer
 
 
 2. Deposit Money
