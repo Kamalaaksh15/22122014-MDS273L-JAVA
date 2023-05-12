@@ -1,4 +1,4 @@
-Lab Exercise Question
+**Lab Exercise Question
 
 You are supposed to create a menu-driven program that has the following menu options:
 Enter a name
